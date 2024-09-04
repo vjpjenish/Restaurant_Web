@@ -1,5 +1,5 @@
 
-# Quick food
+# Restaurant_Web
 
 A Web App for online food ordering
 
