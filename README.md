@@ -3,7 +3,6 @@
 
 A Web App for online food ordering
 
-https://quickfood-app.web.app/
 
 ## Features
 
@@ -55,18 +54,6 @@ There are two .env files
 
 
 ## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/Viveklokadiya/Quickfood.git
-```
-
-Go to the project directory
-
-```bash
-  cd Quickfood
-```
 
 Install dependencies
 
